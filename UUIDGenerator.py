@@ -11,7 +11,7 @@ Y8.   .8P Y8.   .8P 88 88    .8P          Y8.   .88  88        88     88
 
 This very simple tool assists in generating UUIDs.
 It is recommended to not go over a count of 10000.
-Find this project on GitHub: https://github.com/Dborasik/UUID-Gen
+Find the project on GitHub: https://github.com/Dborasik/UUID-Gen
 """)
 
 def requestUUIDCount():
